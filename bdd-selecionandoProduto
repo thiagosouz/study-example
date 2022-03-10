@@ -1,0 +1,11 @@
+Funcionalidade: Buscar e selecionar produto na Araújo
+Eu como usuário do site da Drogaria Araújo
+Quero ter a opção de buscar, selecionar e remover produtos do carrinho
+Para que eu consiga ter autonomia e gerenciar o que desejo ou não comprar
+
+Cenário: Selecionando produto no site da Araújo
+Dado que estou no site da Drogaria Araújo na tela de pesquisa
+Quando eu buscar algum tipo de produto
+E selecionar um produto específico
+E clicar em 'Adicionar ao carrinho'
+Então o sistema deverá apresentar a opção de remover este produto do carrinho

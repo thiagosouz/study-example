@@ -1,0 +1,22 @@
+{
+  "name": "test-araujo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "test:prod": "cypress open --config baseUrl=https://www.araujo.com.br/",
+    "test:local": "rota para criação de testes locais",
+    "test:homolog": "rota para criação de testes em homologação"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  },
+  "dependencies": {
+    "download": "^8.0.0"
+  }
+}

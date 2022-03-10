@@ -39,3 +39,7 @@ Momento em que capturamos a frase (em verde) que comprova que o produto foi remo
 
 ![image](https://user-images.githubusercontent.com/63316218/157715417-a773756e-b58c-4055-bc3e-c5a0bf991211.png)
 
+
+Screenshot comprovando que o teste passou em todas as etapas propostas.
+
+![image](https://user-images.githubusercontent.com/63316218/157722296-af02a0ca-18ee-4869-afce-055f9bbcc9bd.png)

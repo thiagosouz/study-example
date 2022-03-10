@@ -8,4 +8,10 @@ Dado que estou no site da Drogaria Araújo na tela de pesquisa
 Quando eu buscar algum tipo de produto
 E selecionar um produto específico
 E clicar em 'Adicionar ao carrinho'
-Então o sistema deverá apresentar a opção de remover este produto do carrinho
+Então o sistema deverá apresentar o produto selecionado no carrinho
+
+Cenário: Removendo produto do carrinho
+Dado que estou no site da Drogaria Araújo
+Quando eu entrar no meu carrinho
+E clicar em remover o produto
+Então o sistema deverá remover o produto do meu carrinho

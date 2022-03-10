@@ -1,4 +1,4 @@
-EVIDÊNCIAS DE TESTES
+EVIDÊNCIAS DOS TESTES REALIZADOS
 
 Momento de clique e interação, selecionando o tipo de produto
 
